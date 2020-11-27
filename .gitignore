@@ -1,0 +1,8 @@
+*.ray
+*.exe
+*.jpg
+*.bmp
+*.lib
+jliang35_HTML/*
+.vs/*
+Bin/*
